@@ -1,3 +1,7 @@
+# Example
+
+![ex](ex.gif)
+
 # Choose location
 
 ![choose-location](choose-location.gif)
